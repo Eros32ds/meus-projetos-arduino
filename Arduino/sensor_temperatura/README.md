@@ -13,9 +13,6 @@ Projeto simples para leitura de temperatura ambiente utilizando um sensor DHT11 
 - Exibe os valores no Monitor Serial da IDE Arduino.
 - Estrutura de código fácil para entender a leitura de sensores.
 
-## 🔌 Esquema do Circuito
-(Descreva brevemente as conexões ou, se tiver, adicione uma foto `circuito.jpg` depois)
-
 ## 📁 Código
 O código principal está no arquivo [sensor_temperatura.ino](sensor_temperatura.ino).
 
