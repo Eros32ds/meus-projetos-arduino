@@ -63,7 +63,7 @@ lcd.clear();
             return;
     }
             
-lcd.print(F("   Humidade: "));
+lcd.print(F("   Umidade: "));
   lcd.setCursor(5,1);
   lcd.print(h);
   lcd.print("%");
