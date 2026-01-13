@@ -1,13 +1,24 @@
-# Meus Projetos Arduino
-Repositório em construção com projetos de eletrônica e automação.
+# Meus Projetos em Arduino e Python
 
-## Projetos
-- [Sistema de monitoramento de temperatura] 
- [Automação residencial com Arduino] (em breve)
+Repositório dedicado aos meus projetos práticos em **eletrônica com Arduino** e **programação com Python**, com foco em automação e soluções tecnológicas.
 
-## Habilidades
-- Arduino IDE
-- Sensores (DHT11, LDR, etc.)
-- Eletrônica prática
+## 🎯 Objetivo
+Documentar minha evolução técnica e criar um portfólio de projetos que une hardware (Arduino/eletrônica) e software (Python/automação).
 
-*Atualmente em transição para Python para expandir para automação de software.*
+## 📁 Estrutura
+- `/Arduino` – Projetos com microcontroladores, sensores e automação eletrônica
+- `/Python` – Scripts de automação, manipulação de dados e projetos em desenvolvimento
+
+## 🔧 Habilidades em prática
+- **Arduino**: leitura de sensores, acionamento de cargas, lógica de programação em C++
+- **Python**: automação de tarefas, manipulação de arquivos, lógica estruturada
+- **Eletrônica**: montagem de circuitos, uso de instrumentos de medição, análise de esquemas
+
+## 🚀 Próximos passos
+- [ ] Completar curso "100 Days of Code Python" (Udemy)
+- [ ] Desenvolver projeto integrado Arduino + Python (comunicação serial)
+- [ ] Criar organizador automático de arquivos em Python
+
+---
+
+*Estudante técnico em Eletrônica em transição para área de Tecnologia com foco em automação.*
